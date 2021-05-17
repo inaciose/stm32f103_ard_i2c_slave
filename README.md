@@ -9,3 +9,5 @@ https://github.com/stm32duino/Arduino_Core_STM3
 board = bluepill_f103c8
 
 Master for test it at:
+
+https://github.com/inaciose/esp32cam_ard_i2c_master
